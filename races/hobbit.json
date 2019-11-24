@@ -1,0 +1,43 @@
+{
+    "name": "Hobit",
+    "description": ["Hobiti jsou malým, veselým nárůdkem. ",
+                    "Jsou ještě menší než trpaslíci, chlupatí ",
+                    "a jaksi „dobrácky kulaťoučcí“. Žijí zpravidla ",
+                    "v úrodných údolích, kde si ve strá- ních budují ",
+                    "komfortní nory a doupata. Rozhodně nejsou nijak ",
+                    "zvlášť silní, ale zato jsou velmi obratní a povětšinou ",
+                    "inteligentní. Dobrodružství příliš nevy- hledávají, ",
+                    "protože mají rádi pohodlí, dobré jídlo a silné pití. ",
+                    "Jestliže se však jednou přece jen vydají na cesty, patří ",
+                    "k těm nejlepším zlodějům, jaké si jen dovedeš ",
+                    "představit. Hobiti mají také zvláštní psychickou ",
+                    "schopnost, díky které dokážou „vycítit“ na dálku ",
+                    "většinu živých tvorů. Této zvláštni vlastosti ",
+                    "říkají mezi sebou „čich“, a přestože jejich pohodlnickým ",
+                    "životem již dosti zakrněla, dokážou díky ní ",
+                    "lokalizovat živou bytost, dokonce i když je od nich ",
+                    "oddělena například železnou stěnou. Přestože hobiti ",
+                    "nejsou zbabělí, jen neradi přistupují na boj tváří ",
+                    "v tvář a raději používají své kuše než těžké meče nebo ",
+                    "halapartny."],
+    "size": "A",
+    "height": [70, 120],
+    "weight": [800, 1200],
+    "stats": {
+        "strength": "1d6+2",
+        "dexterity": "1d6+10",
+        "constitution": "1d6+7",
+        "intelligence": "1d6+9",
+        "charisma": "2d6+6"
+    },
+    "correction": {
+        "strength": -5,
+        "dexterity": 2,
+        "constitution": 0,
+        "intelligence": -2,
+        "charisma": 3
+    },
+    "specialities": ["Superčich"]
+}
+
+
