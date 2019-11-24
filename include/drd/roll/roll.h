@@ -1,7 +1,7 @@
 ///
-/// @file include/os/os.h
+/// @file include/os/roll.h
 ///
-/// Operating system abstraction header file.
+/// Dice rolling API.
 ///
 // SIMPLIFIED BSD LICENSE (FREEBSD LICENSE):
 // Copyright (c) 2019, Jakub Korbel <i@jakubkorbel.cz>
