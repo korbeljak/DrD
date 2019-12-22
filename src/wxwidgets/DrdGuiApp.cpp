@@ -71,7 +71,7 @@ IMPLEMENT_APP_NO_MAIN(DrdGui);
 
 bool DrdGui::OnInit()
 {
-    DrdFrame *frame = new DrdFrame(wxString::FromUTF8(u8"Faníkova Ňuňavá PJ Aplikace v0.0.1"), wxPoint(50, 50), wxSize(500, 500) );
+    DrdFrame *frame = new DrdFrame(wxString::FromUTF8(DRD_APP_NAME), wxPoint(50, 50), wxSize(500, 500) );
     frame->Show( true );
     return true;
 }

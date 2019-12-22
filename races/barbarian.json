@@ -1,31 +1,72 @@
-{"name":"Barbar",
-	"description": ["Barbaři jsou v podstatě lidé, ale jejich po"
-"staletí trvající odloučení od skutečné lidské"
-" civilizace způsobilo, že barbar zpravidla"
-" není tak inteligentní jako člověk,"
-"avšak je silnější a mnohem odolnější."
-"Tyto vlastnosti jej také předurčují"
-"k tomu, aby se stal dobrým válečníkem,"
-"i když v boji obvykle není tak divoký"
-"a krutý jako kroll. Oproti krollovi má typický "
-"barbar tu výhodu (ale nemusí to"
-"být pravidlem), že je chytřejší, obratnější"
-" a v neposlední řadě také pohlednější."],
-	"size":"B",
-	 "height":[175,220],
-	  "weight":[1500,2800],
-	  "stats": {
-        "strength": "1d6+9",
-        "dexterity": "1d6+7",
-        "constitution": "1d6+10",
-        "intelligence": "1d6+5",
-        "charisma": "3d6-2"
-    },
-     "correction": {
-        "strength": 1,
-        "dexterity": -1,
-        "constitution": 1,
-        "intelligence": 0,
-        "charisma":-2},
-     "specialities":[]
-  }
+{
+	"name": "Barbar",
+	"description": [
+		"Barbaři jsou v podstatě lidé, ale jejich po",
+		"staletí trvající odloučení od skutečné lidské",
+		" civilizace způsobilo, že barbar zpravidla",
+		" není tak inteligentní jako člověk,",
+		"avšak je silnější a mnohem odolnější.",
+		"Tyto vlastnosti jej také předurčují",
+		"k tomu, aby se stal dobrým válečníkem,",
+		"i když v boji obvykle není tak divoký",
+		"a krutý jako kroll. Oproti krollovi má typický ",
+		"barbar tu výhodu (ale nemusí to",
+		"být pravidlem), že je chytřejší, obratnější",
+		" a v neposlední řadě také pohlednější.",
+		"Barbaři jsou v podstatě lidé, ale jejich po",
+		"staletí trvající odloučení od skutečné lidské",
+		" civilizace způsobilo, že barbar zpravidla",
+		" není tak inteligentní jako člověk,",
+		"avšak je silnější a mnohem odolnější.",
+		"Tyto vlastnosti jej také předurčují",
+		"k tomu, aby se stal dobrým válečníkem,",
+		"i když v boji obvykle není tak divoký",
+		"a krutý jako kroll. Oproti krollovi má typický ",
+		"barbar tu výhodu (ale nemusí to",
+		"být pravidlem), že je chytřejší, obratnější",
+		"barbar tu výhodu (ale nemusí to",
+		"a krutý jako kroll. Oproti krollovi má typický ",
+		"i když v boji obvykle není tak divoký",
+		"k tomu, aby se stal dobrým válečníkem,",
+		"Tyto vlastnosti jej také předurčují",
+		"avšak je silnější a mnohem odolnější.",
+		" není tak inteligentní jako člověk,",
+		" civilizace způsobilo, že barbar zpravidla",
+		"staletí trvající odloučení od skutečné lidské",
+		"Barbaři jsou v podstatě lidé, ale jejich po",
+		"staletí trvající odloučení od skutečné lidské",
+		" civilizace způsobilo, že barbar zpravidla",
+		" není tak inteligentní jako člověk,",
+		"avšak je silnější a mnohem odolnější.",
+		"Tyto vlastnosti jej také předurčují",
+		"k tomu, aby se stal dobrým válečníkem,",
+		"i když v boji obvykle není tak divoký",
+		"a krutý jako kroll. Oproti krollovi má typický ",
+		"barbar tu výhodu (ale nemusí to",
+		"být pravidlem), že je chytřejší, obratnější"
+	],
+	"size": "B",
+	"height": [
+		175,
+		220
+	],
+	"weight": [
+		1500,
+		2800
+	],
+	"stats": {
+		"strength": "1d6+9",
+		"dexterity": "1d6+7",
+		"constitution": "1d6+10",
+		"intelligence": "1d6+5",
+		"charisma": "3d6-2"
+	},
+	"correction": {
+		"strength": 1,
+		"dexterity": -1,
+		"constitution": 1,
+		"intelligence": 0,
+		"charisma": -2
+	},
+	"specialities": []
+}

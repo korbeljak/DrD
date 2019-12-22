@@ -1,43 +1,77 @@
-{"name":"Trpaslík",
-	"description":["Trpaslíci jsou jednou z nejznámějších"
-"člověku podobných ras. Jsou menší,"
-"podsadití, zocelení dlouhými věky"
-"strávenými v nehostinných pustinách."
-"Jejich větrem ošlehané tváře snad"
-"vždy (trpaslice nevyjímaje) zdobí hnědé"
-" až černé vousy, které jim však, "
-"stejně jako vlasy, poměrně záhy šedivějí."
-"Sídlí v horách, zpravidla daleko od civilizace. Díky infravidění vidí v"
-"omezené míře i ve tmě, a proto mohou pod"
-"zemí budovat rozsáhlé skalní komplexy šachet,"
-" jeskyní a sálů, kde těží drahé"
-"kameny, stříbro a především svoje milované zlato."
-"Trpaslíci většinou postrádají jakýkoliv "
-"smysl pro humor, jsou vždy"
-"vážní a někdy až příliš sebejistí. Dané"
-"slovo dodrží, zejména kyne-li jim"
-"z toho nějaká výhoda."
-"Jejich nejoblíbenější zbraní je válečná sekera."
-" V boji jsou nesmírně stateční"
-"a jen neradi ustupují z prohrané bitvy."
-"Brání-li trpaslík svoji hroudu zlata, neustoupí "
-"ani před rozvztekleným, vyhladovělým ohnivým drakem." ],
-	"size":"A",
-	 "height":[110,140],
-	  "weight":[1100,2000],
-	  "stats": {
-        "strength": "1d6+6",
-        "dexterity": "1d6+6",
-        "constitution": "1d6+11",
-        "intelligence": "1d6+7",
-        "charisma": "1d6+6"
-    },
-     "correction": {
-        "strength": 1,
-        "dexterity": -2,
-        "constitution": 3,
-        "intelligence": -3,
-        "charisma": -2},
-     "specialities":["Infravidění"]
-     }
-     
+{
+	"name": "Trpaslík",
+	"description": [
+		"Trpaslíci jsou jednou z nejznámějších",
+		"člověku podobných ras. Jsou menší,",
+		"podsadití, zocelení dlouhými věky",
+		"strávenými v nehostinných pustinách.",
+		"Jejich větrem ošlehané tváře snad",
+		"vždy (trpaslice nevyjímaje) zdobí hnědé",
+		" až černé vousy, které jim však, ",
+		"stejně jako vlasy, poměrně záhy šedivějí.",
+		"Sídlí v horách, zpravidla daleko od civilizace. Díky infravidění vidí v",
+		"omezené míře i ve tmě, a proto mohou pod",
+		"zemí budovat rozsáhlé skalní komplexy šachet,",
+		" jeskyní a sálů, kde těží drahé",
+		"kameny, stříbro a především svoje milované zlato.",
+		"Trpaslíci většinou postrádají jakýkoliv ",
+		"smysl pro humor, jsou vždy",
+		"vážní a někdy až příliš sebejistí. Dané",
+		"slovo dodrží, zejména kyne-li jim",
+		"z toho nějaká výhoda.",
+		"Jejich nejoblíbenější zbraní je válečná sekera.",
+		" V boji jsou nesmírně stateční",
+		"a jen neradi ustupují z prohrané bitvy.",
+		"Brání-li trpaslík svoji hroudu zlata, neustoupí ",
+		"ani před rozvztekleným, vyhladovělým ohnivým drakem.",
+		"Trpaslíci jsou jednou z nejznámějších",
+		"člověku podobných ras. Jsou menší,",
+		"podsadití, zocelení dlouhými věky",
+		"strávenými v nehostinných pustinách.",
+		"Jejich větrem ošlehané tváře snad",
+		"vždy (trpaslice nevyjímaje) zdobí hnědé",
+		" až černé vousy, které jim však, ",
+		"stejně jako vlasy, poměrně záhy šedivějí.",
+		"Sídlí v horách, zpravidla daleko od civilizace. Díky infravidění vidí v",
+		"omezené míře i ve tmě, a proto mohou pod",
+		"zemí budovat rozsáhlé skalní komplexy šachet,",
+		" jeskyní a sálů, kde těží drahé",
+		"kameny, stříbro a především svoje milované zlato.",
+		"Trpaslíci většinou postrádají jakýkoliv ",
+		"smysl pro humor, jsou vždy",
+		"vážní a někdy až příliš sebejistí. Dané",
+		"slovo dodrží, zejména kyne-li jim",
+		"z toho nějaká výhoda.",
+		"Jejich nejoblíbenější zbraní je válečná sekera.",
+		" V boji jsou nesmírně stateční",
+		"a jen neradi ustupují z prohrané bitvy.",
+		"Brání-li trpaslík svoji hroudu zlata, neustoupí "
+	],
+	"size": "A",
+	"height": [
+		110,
+		140
+	],
+	"weight": [
+		1100,
+		2000
+	],
+	"stats": {
+		"strength": "1d6+6",
+		"dexterity": "1d6+6",
+		"constitution": "1d6+11",
+		"intelligence": "1d6+7",
+		"charisma": "1d6+6"
+	},
+	"correction": {
+		"strength": 1,
+		"dexterity": -2,
+		"constitution": 3,
+		"intelligence": -3,
+		"charisma": -2
+	},
+	"specialities": [
+		"Infravidění"
+	]
+}
+
