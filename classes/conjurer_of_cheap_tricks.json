@@ -1,11 +1,11 @@
 {
 "name":"Kouzelník",
 "description":["Kouzelník je chytrý a umí ovlivňovat"
-druhé. Není příliš silný v boji, ale vynahrazuje"
+"druhé. Není příliš silný v boji, ale vynahrazuje"
 " si to svými zvláštními schopnostmi,"
 " zejména studiem kouzel, "
 "Kouzelníci byli vždy terčem nejrůznějších"
-dohadů a nikdo vlastně neví,co všechno
+"dohadů a nikdo vlastně neví,co všechno"
  "mohou dokázat. Lidé se k nim chovají uctivě,"
  " ale podezřívavě a se strachem."
  " Kouzelníci sami dávají přednost"
@@ -33,5 +33,6 @@ dohadů a nikdo vlastně neví,co všechno
         "intelligence": "1d6+13",
         "charisma": "1d6+12"
     },
-    //kouzla, magenergie, zkušenost, odvracení neviděných
+    "comment":"kouzla, magenergie, zkušenost, odvracení neviděných"
+		
 }

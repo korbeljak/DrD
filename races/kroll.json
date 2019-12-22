@@ -1,8 +1,9 @@
-{"name":"Kroll",
-	"description":["Krollové sídlí v horách, tundrách a vůbec"
+{
+	"name":"Kroll",
+	"description": ["Krollové sídlí v horách, tundrách a vůbec"
 	" v prostředí velmi tvrdém a nehostinném."
 " Dospělý kroll může měřit hodně"
-" přes dva metry a zjevem může vzdáleně
+" přes dva metry a zjevem může vzdáleně"
 " (velmi vzdáleně) připomínat pračlověka,"
 " i když jeho kůže je spíše zrohovatělá"
 " než chlupatá. Bezpečně je však"
@@ -17,7 +18,7 @@
 "k nejobávanějším bojovníkům a z jejich"
 " kyjů a palcátů jde vskutku příslovečný"
 " strach. Po svých divokých předcích"
-" kromě jiného podědili také vrozený
+" kromě jiného podědili také vrozený"
 " „ultrasluch“, který jim umožňuje do"
 "jisté míry „vidět“ (podobně jako netopýrům)"
 " i za úplné tmy nebo mlhy."
@@ -26,8 +27,9 @@
 "s poloobrem. To by také vysvětlovalo,"
 "proč se mezi nimi téměř nikdy nevyskytují"
 " jedinci preferující výhradně dobro."],
-	"size":"C",
-	 "height":[180,245],
+
+"size":"C",
+"height":[180,245],
 	  "weight":[2000,4000],
 	  "stats": {
         "strength": "1d6+10",

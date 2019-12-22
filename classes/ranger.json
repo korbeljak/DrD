@@ -35,5 +35,5 @@
         "intelligence": "1d6+11",
         "charisma": ""
     },
- // pes, kouzla, stopování
-	}
+ "comment":"pes, kouzla, stopování"
+ 	}
