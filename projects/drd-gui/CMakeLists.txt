@@ -3,9 +3,10 @@ get_filename_component(ROOT_DIR "${CMAKE_CURRENT_SOURCE_DIR}/../.." ABSOLUTE)
 list(APPEND CMAKE_MODULE_PATH ${ROOT_DIR}/cmake)
 list(REMOVE_DUPLICATES CMAKE_MODULE_PATH)
 
-project(DrD_vxwidgets C CXX)
+project(DrD-gui C CXX)
 
 set(SRC
+${CMAKE_CURRENT_SOURCE_DIR}/main.c
 )
 
 set(CMAKE_BUILD_TYPE "Debug")
@@ -18,4 +19,9 @@ set(INC_DIRS
 
 include_directories(${INC_DIRS})
 
-add_library(${PROJECT_NAME} STATIC ${SRC})
+
+add_subdirectory(${ROOT_DIR}/src DrD)
+
+add_executable(${PROJECT_NAME} ${SRC})
+
+target_link_libraries(${PROJECT_NAME} DrD_os DrD_roll DrD_wxwidgets)

@@ -24,6 +24,10 @@ include_directories(${INC_DIRS})
 add_subdirectory(os)
 add_subdirectory(roll)
 #add_subdirectory(android)
-#add_subdirectory(vxwidgets)
+
+option(DRD_GUI_VXWIDGETS "Enable GUI using wxWidgets library" ON)
+if (DRD_GUI_VXWIDGETS)
+    add_subdirectory(wxwidgets)
+endif(DRD_GUI_VXWIDGETS)
 
 add_library(${PROJECT_NAME} STATIC ${SRC})

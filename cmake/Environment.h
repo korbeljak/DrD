@@ -14,5 +14,8 @@
 /// Maximum number tokens in one dicecmd.
 #define DRD_ROLL_MAX_NUM_TOKENS ${DRD_ROLL_MAX_NUM_TOKENS}
 
+/// Application Name
+#define DRD_APP_NAME u8"${DRD_APP_NAME}"
+
 
 #endif /* CMAKE_ENVIRONMENT_H_ */

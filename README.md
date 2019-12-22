@@ -8,7 +8,7 @@ It aims to be open for any contributions and inviting to DrD community.
 Planned features:
   * An extensible C engine as a library [Ongoing]
   * Platform independence [Ongoing]
-  * GUI (vxWidgets) [To Do]
+  * GUI (wxWidgets) [To Do]
   * Android support (possible iOS support) [To Do]
   * DiceCMD dice rolling command line utility for Linux, Windows and macOS [macOS abstraction layer devs needed!]
   * Leveraging of existing, standard human readable or editable formats [To Do]
