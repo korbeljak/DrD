@@ -1,0 +1,32 @@
+	{"name":"Člověk",
+	"description": ["Lidé jsou snad nejrozšířenější rasou, žijící"
+	"jak v oblastech hor, tak i ve stepích,"
+"lesích a tundrách. Budují rozsáhlá sídla,"
+"ať už města či vesnice, která zpravidla"
+" leží na velkých obchodních křižovatkách."
+" Lidé jsou velmi houževnatí,"
+"a když nejsou tak silní jako krollové,"
+"ani tak inteligentní jako elfové, nacházejí"
+" uplatnění v celé škále povolání."
+"Většina z nich se zabývá především zemědělstvím"
+" a řemeslnou výrobou, ale"
+"najdete mezi nimi i zdatné lovce a "
+"zkušené dobrodruhy všeho druhu."],
+	"size":"B"
+	 "height":[165,210],
+	  "weight":[1300,2300],
+	  "stats": {
+        "strength": "2d6+4",
+        "dexterity": "1d6+8",
+        "constitution": "1d6+8",
+        "intelligence": "1d6+9",
+        "charisma": "3d6-1"
+    },
+     "correction": {
+        "strength": 0,
+        "dexterity": 0,
+        "constitution": 0,
+        "intelligence": 0,
+        "charisma": 0},
+     "specialities":[]
+  }

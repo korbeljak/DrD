@@ -1,0 +1,46 @@
+{"name":"Kroll",
+	"description":["Krollové sídlí v horách, tundrách a vůbec"
+	" v prostředí velmi tvrdém a nehostinném."
+" Dospělý kroll může měřit hodně"
+" přes dva metry a zjevem může vzdáleně
+" (velmi vzdáleně) připomínat pračlověka,"
+" i když jeho kůže je spíše zrohovatělá"
+" než chlupatá. Bezpečně je však"
+"poznáte podle jejich nezaměnitelných"
+"uší, jimž vděčí za svůj neobvyklý sluch."
+"Krollové jsou silnější než obyčejní"
+"lidé, ale také poněkud neohrabaní a zejména"
+" o poznání hloupější. Žijí obvykle"
+" v nevelkých kmenech, které mezi sebou"
+" neustále válčí. V těchto bojích se"
+"velmi zdokonalili, a proto nyní patří"
+"k nejobávanějším bojovníkům a z jejich"
+" kyjů a palcátů jde vskutku příslovečný"
+" strach. Po svých divokých předcích"
+" kromě jiného podědili také vrozený
+" „ultrasluch“, který jim umožňuje do"
+"jisté míry „vidět“ (podobně jako netopýrům)"
+" i za úplné tmy nebo mlhy."
+"Pokud jde o jejich původ, je možné,"
+"že vznikli kdysi dávno spojením skřeta"
+"s poloobrem. To by také vysvětlovalo,"
+"proč se mezi nimi téměř nikdy nevyskytují"
+" jedinci preferující výhradně dobro."],
+	"size":"C",
+	 "height":[180,245],
+	  "weight":[2000,4000],
+	  "stats": {
+        "strength": "1d6+10",
+        "dexterity": "1d6+4",
+        "constitution": "1d6+10",
+        "intelligence": "1d6+1",
+        "charisma": "2d6-1"
+    },
+     "correction": {
+        "strength": 3,
+        "dexterity": -4,
+        "constitution": 3,
+        "intelligence": -6,
+        "charisma": -5},
+     "specialities":["Ultrasluch"]
+       }

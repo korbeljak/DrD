@@ -1,0 +1,40 @@
+	{
+	"name":"Alchymista",
+	"description":["Alchymista je šikovný a leccos vydrží."
+"Zabývá se výrobou lektvarů a různých"
+"kouzelných předmětů. V boji většinou"
+"nepomáhá přímo, ale prostřednictvím"
+"svého umění. Alchymisté se liší od kouzelníků"
+" svým přístupem k magii. Zatím"
+" co kouzelníci rozvíjejí svou inteligenci"
+" z ní získávají magenergii, alchymisté ji"
+"destilují z různých předmětů (netopýřích"
+" křídel, žluče toulavých psů) a záleží"
+"jen na jejich obratnosti, zda a kolik"
+" magenergie se jim z nich podaří vytěžit."
+"(Co je to magenergie a jak se měří, bylo"
+"vysvětleno v podkapitole Míry a váhy“"
+"na straně 21.) Díky tomu jsou alchymisté"
+" bližší „obyčejným“ lidem než kouzelníci"
+"a nevzbuzují u nich strach. Přesto"
+"jí svým způsobem mnohem důvěryhodnější"
+"vztah k magenergii než jiná povolání"
+" nadaná schopností kouzlit."
+"Alchymistovy kouzelné předměty"
+"mohou být užitečné v mnoha různých"
+"situacích. Jejich účinky se často liší od"
+"účinků kouzelníkových kouzel a žádná"
+" družina neprodělá, když bude mít"
+"alchymistu ve svém středu."],
+	"size":
+	 "height":
+	  "weight":
+	  "stats": {
+        "strength": "",
+        "dexterity": "1d6+12",
+        "constitution": "1d6+11",
+        "intelligence": "",
+        "charisma": ""
+    },
+     //truhly, lučba, destilace, lektvary, předměty, výbušniny apod., vycítění magie
+	}

@@ -1,0 +1,37 @@
+{
+"name":"Kouzelník",
+"description":["Kouzelník je chytrý a umí ovlivňovat"
+druhé. Není příliš silný v boji, ale vynahrazuje"
+" si to svými zvláštními schopnostmi,"
+" zejména studiem kouzel, "
+"Kouzelníci byli vždy terčem nejrůznějších"
+dohadů a nikdo vlastně neví,co všechno
+ "mohou dokázat. Lidé se k nim chovají uctivě,"
+ " ale podezřívavě a se strachem."
+ " Kouzelníci sami dávají přednost"
+ " samotě, ve které studují svá kouzla,"
+ "a stýkají se jenom se svým učitelem."
+"Kouzla jsou přirozenou součástí"
+"světa Dračího doupěte. Jsou předměty,"
+"které jsou bezcenné pro někoho, kdo se"
+"v kouzlech nevyzná, a které se mohou"
+"stát strašnou zbraní v rukou mága."
+"Řadu situací je mnohem lehčí vyřešit"
+"pomocí kouzla než „obvyklým“ způsobem."
+" Ale pozor! Nejde to vždy a zvláště"
+"zpočátku jsou kouzla spíše vzácná."
+"Pro své mimořádné schopnosti je"
+"kouzelník vyhledávaným členem každé družiny."
+" Je pravda, že většinu času - alespoň zpočátku - "
+"zůstávají tyto schopnosti nevyužity, ale okamžik,"
+"kdy je použije, může znamenat"
+" rozhodující zvrat v celém dobrodružství."],
+{"stats":
+  "strength": "",
+        "dexterity": "",
+        "constitution": "",
+        "intelligence": "1d6+13",
+        "charisma": "1d6+12"
+    },
+    //kouzla, magenergie, zkušenost, odvracení neviděných
+}

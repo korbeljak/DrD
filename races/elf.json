@@ -1,22 +1,43 @@
-{
-    "0": 1,
-    "1": -2,
-    "2": 3.333,
-    "3": 4.0e+17,
-    "4": "abc",
-    "5": "\u00e1\n",
-    "6": null,
-    "7": [
-        2.1,
-        2.2,
-        [
-            "2.2.1"
-        ]
-    ],
-    "8": false,
-    "9": true,
-    "10": "",
-    "key": "value",
-    "abc\"def": []
-}
-
+{"name":"Elf",
+	"description":["Elfové jsou známou rasou, žijící zpravidla"
+	" hluboko v lesích nebo odlehlých"
+"údolích a roklinách. Jsou menší než"
+"lidé a zdaleka ne tak robustní. Pro své"
+"většinou plavé vlasy a jemné rysy obličeje"
+" jsou pokládání za velmi krásné až"
+"poněkud změkčilé."
+"Protože jsou velmi inteligentní, jen"
+"neradi bojují; avšak jsou-li k boji donuceni,"
+" mohou být nebezpečnými"
+"soupeři. Díky své obratnosti dovedou"
+"dobře zacházet zejména s lukem a se"
+"střelnými zbraněmi vůbec."
+"Největší potěšení jim však činí studium"
+" a učení se kouzlům, a proto z" 
+"jejich řad vzešlo již mnoho známých kouzelníků."
+" Také milují krásné věci, ale od"
+"trpaslíků (které mimochodem nemají"
+"příliš v lásce) se liší především tím, že"
+"krásu hned nepřepočítávají na zlaťáky."
+"Elfové jsou vesměs velmi čestní"
+"a spravedliví a nikdy se mezi nimi nevyskytují "
+"jedinci, pro které by zlo bylo"
+"přirozenou podstatou jejich osobnosti."],
+	"size":"B"
+	 "height":[145,180],
+	  "weight":[1000, 1700],
+	  "stats": {
+        "strength": "1d6+5",
+        "dexterity": "1d6+9",
+        "constitution": "1d6+5",
+        "intelligence": "1d6+11",
+        "charisma": "2d6+6"
+    },
+     "correction": {
+        "strength": 0,
+        "dexterity": 1,
+        "constitution": -4,
+        "intelligence": 2,
+        "charisma": 2},
+     "specialities":[]
+       }
