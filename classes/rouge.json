@@ -35,5 +35,7 @@
         "intelligence": "",
         "charisma": "1d6+11"
     },
+   "advancements":["sicco","thief"],
+  
    "Comment":"tabulka okrádání, lezení apod. dle úrovně apod., backstab"
 	}

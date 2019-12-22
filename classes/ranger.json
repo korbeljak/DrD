@@ -1,6 +1,6 @@
 	{
 	"name":"Hraničář",
-	"description":["raničář je silný a moudrý. Zná přírodu."
+	"description":["Hraničář je silný a moudrý. Zná přírodu."
 	" a tvory, kteří ji obývají, a umí svých"
 "znalostí využívat. V boji má určitá"
 "omezení, ale stále může být platným"
@@ -35,5 +35,6 @@
         "intelligence": "1d6+11",
         "charisma": ""
     },
+    "advancements":["druid","strider"],
  "comment":"pes, kouzla, stopování"
  	}

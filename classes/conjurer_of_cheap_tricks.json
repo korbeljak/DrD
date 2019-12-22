@@ -33,6 +33,7 @@
         "intelligence": "1d6+13",
         "charisma": "1d6+12"
     },
+    "advancements":["mage","wizard"],
     "comment":"kouzla, magenergie, zkušenost, odvracení neviděných"
 		
 }
