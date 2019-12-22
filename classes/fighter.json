@@ -1,0 +1,35 @@
+"name":"Válečník",
+	"description":["Válečník je silný a houževnatý. Vládne"
+	" mnoha druhy zbraní a umí se v jejich"
+	" používání zdokonalovat. V boji"
+"má větší šanci, že nepřítele zasáhne."
+"A vzhledem k tomu, že bitvy a souboje"
+"jsou v Dračím doupěti tak běžné jako"
+"v našem světě jízda autobusem, je pro"
+"každou družinu nezbytné, aby ve"
+"svém středu měla jednoho nebo více"
+"válečníků. Postavy jiných povolání"
+"sice také mohou bojovat, ale mohou"
+"být svázány rozličnými omezeními."
+"Válečníci jsou jediní, kteří boj skutečně"
+ "studují a mají v něm některé výhody,"
+  "které žádné jiné povolání nemá."
+"Válečníci jsou nepostradatelní všude"
+" tam, kde je zapotřebí hrubá síla."
+"A takových situací není v Dračím"
+"doupěti málo: někdy je třeba vyrazit"
+"vzpříčené dveře nebo odvalit z cesty"
+"velký kámen."
+"Žádná družina si nemůže dovolit"
+"jít do jeskyně bez válečníka. Jeho místo"
+" je vpředu a na krajích — tam, kde je"
+"možno očekávat útok."],
+	  "stats": {
+        "strength": "1d6+12",
+        "dexterity": "",
+        "constitution": "1d6+12",
+        "intelligence": "",
+        "charisma": ""
+    },
+    // Zastrašování, poznání artefaktu, souhra, několikanásobné útoky/ bonusy na iniciativu
+	}

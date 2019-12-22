@@ -1,0 +1,39 @@
+{
+"name":"Kudúk",
+	"description":["Kudůkové jsou zvláštní rasou, o které"
+"se ví téměř jistě, že vznikla kdysi v dávných"
+"dobách splynutím části plemene"
+"trpaslíků s hobity. Podobně jako hobiti"
+"také kudůkové jsou velmi obratní a poměrně "
+"chytří. Po trpaslících zase zdědili"
+"jejich nezdolnost a z části také lásku ke"
+"zlatu a drahým kamenům."
+"Žijí v horách i v nížinách, ale nemilují podzemí,"
+"a proto si staví drobné kamenné domy,"
+"většinou daleko od velkých měst a obchodních cest."
+"Přestože jen málokterý z nich se"
+"stane dobrým bojovníkem, dokážou"
+"v boji velmi dobře zacházet jak se sekerou,"
+ "tak i s kuší."
+"Mnoho z nich také nachází potěšení "
+"v různém bylinkářství a alchymii,"
+"ale stejně tak dobře se mohou uplatnit"
+"třeba jako zloději."],
+	"size":"A",
+	 "height":[90,130],
+	  "weight":[1000,1500],
+	  "stats": {
+        "strength": "1d6+4",
+        "dexterity": "1d6+9",
+        "constitution": "1d6+9",
+        "intelligence": "1d6+8",
+        "charisma": "1d6+6"
+    },
+     "correction": {
+        "strength": -3,
+        "dexterity": 1,
+        "constitution": 1,
+        "intelligence": -2,
+        "charisma": 0},
+     "specialities":[]
+}

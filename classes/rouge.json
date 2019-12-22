@@ -1,0 +1,39 @@
+{
+	"name":"Zloděj",
+	"description":["Zloděj je mrštný a umí se vloudit do"
+"přízně jiných lidí. V boji zpravidla nestojí" 
+"v první řadě — a není to ani jeho"
+"poslání — ale dokáže i tvrdě zasáhnout."
+"Zloději jsou odborníky na nebezpečné"
+"situace, které vyžadují vtip a obratnost"
+"místo hrubé síly. Zloději studují své řemeslo"
+" v obávaném zlodějském cechu"
+"a prostí lidé si vyprávějí bájné zkazky"
+"o jejich umění. O zlodějích, kteří sami"
+"pronikli do přísně střežených pevností"
+"nebo zakletých hrobek a ukradli královské"
+" poklady, o zlodějích, kteří unikli"
+"z okovů v podzemním žaláři, hlídaném"
+"těmi nejlepšími z královské gardy."
+"Zloději z pochopitelných důvodů"
+"jen neradi odhalují svou profesi. Dokážou"
+" být velice zábavní společníci,"
+" snadno si získají přízeň jiných lidí,"
+"a zjistí tak množství zajímavých informací."
+" Ty pak využijí ke svému prospěchu"
+" — nebo k prospěchu družiny."
+"Díky svým pozoruhodným schopnostem,"
+" které nemá žádné jiné povolání,"
+" je zloděj žádaným členem v každé družině."
+" Postavám, se kterými půjde,"
+" ušetří mnoho nesnází."],
+	
+	  "stats": {
+        "strength": "",
+        "dexterity": "1d6+13",
+        "constitution": "",
+        "intelligence": "",
+        "charisma": "1d6+11"
+    },
+    //tabulka okrádání, lezení apod. dle úrovně apod., backstab
+	}

@@ -1,0 +1,39 @@
+	{
+	"name":"Hraničář",
+	"description":["raničář je silný a moudrý. Zná přírodu."
+	" a tvory, kteří ji obývají, a umí svých"
+"znalostí využívat. V boji má určitá"
+"omezení, ale stále může být platným"
+"bojovníkem po boku válečníka. Kromě"
+" toho je vhodný jako silná zadní"
+"stráž v družinách, které nemají dost"
+"válečníků (a takových družin bude"
+"většina)."
+"Hraničáři zpravidla žijí v hlubokých"
+"hvozdech, kde sami, jen se svými psy,"
+"střeží stezky a pomáhají těm, kdo pomoc" 
+"potřebují. Proto jsou takřka všude"
+"vítanými hosty. Dlouholetým stykem"
+"s přírodou a přírodní magií se u nich"
+"vyvíjejí i jisté nadpřirozené schopnosti,"
+"které jim pomáhají při jejich nebezpečném"
+" a osamoceném životě — alespoň"
+"tak se to mezi lidmi povídá."
+"Hraničáři se dají přemluvit, aby se"
+"připojili k družině. Jsou vynikajícími"
+"lovci a stopaři, a proto jsou neocenitelní"
+" při dobrodružstvích ve volné přírodě."
+" Ale jejich mimořádné schopnosti"
+"jsou užitečné i jinde, například v podzemí."
+" V boji i mimo něj je hraničář"
+"hodnotným členem každé družiny."],
+
+	  "stats": {
+        "strength": "1d6+10",
+        "dexterity": "",
+        "constitution": "",
+        "intelligence": "1d6+11",
+        "charisma": ""
+    },
+ // pes, kouzla, stopování
+	}
